@@ -1,0 +1,22 @@
+{
+  "name": "arthur-jank-website",
+  "version": "1.0.0",
+  "description": "jank, temporary website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikbrandt/Arthur-Jank-Website.git"
+  },
+  "author": "Nikolas Brandt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikbrandt/Arthur-Jank-Website/issues"
+  },
+  "homepage": "https://github.com/nikbrandt/Arthur-Jank-Website#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
